@@ -1,0 +1,17 @@
+{
+  "name": "advance/helper",
+  "license": "MIT",
+  "description": "",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Advance\\Helper\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Advance\\Helper\\": "tests"
+    }
+  }
+}
