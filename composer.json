@@ -4,6 +4,7 @@
   "description": "",
   "require": {
   },
+  "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
       "Advance\\Helper\\": "src"
